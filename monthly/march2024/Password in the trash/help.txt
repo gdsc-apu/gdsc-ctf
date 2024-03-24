@@ -1,0 +1,11 @@
+Category: Forensics
+
+Question: Password in the Trash
+
+Help! I'm unable to log into my website because I've forgotten my password. I sought assistance from a network hacker named Meow to retrieve it, but he was unsuccessful. Attached is the Wireshark record, which might contain some clues. Could you help me find my password?
+
+Hint: Meow live at:
+4488, 
+Three-Way Harbor, 
+400000 Klang, 
+Selangor
